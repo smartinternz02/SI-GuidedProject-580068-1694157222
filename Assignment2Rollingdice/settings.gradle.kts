@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Assignment2Rollingdice"
+rootProject.name = "Assignment2RollingDice"
 include(":app")
  
